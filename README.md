@@ -19,7 +19,7 @@ Welcome to the Multi-tenancy API Collection documentation. This document provide
 - [Super Admin](#super-admin)
 - [Company](#company)
 - [Variables](#variables)
-
+```
 ## Introduction
 
 The Multi-tenancy API Collection allows you to manage super admin and company-related operations in a multi-tenant environment.
@@ -32,8 +32,8 @@ To get started with the Multi-tenancy API, follow these steps:
 
    ```bash
    git clone <repository_url>
-   cd multi-tenancy-api
-
+   cd multi-tenancy
+   ```
 2. **Install Composer Dependencies:**
 
    Before running the Laravel application, install the required dependencies using Composer.
